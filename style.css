@@ -467,7 +467,7 @@ nav ul.list li a:hover {
 .work-tag {
   font-size: 1.2rem;
   font-weight: 600;
-  color: var(--color-text);
+  color: var(--color-surface);
   background: var(--color-accent2);
   padding: 0.2rem 0.8rem;
 }
